@@ -1,2 +1,2 @@
-# G-r-nt-leme
+Görüntü_İşleme Projesi
 Gabor Filtresi ile Dokusal Analiz
